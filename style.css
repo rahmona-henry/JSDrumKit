@@ -10,8 +10,11 @@ body,html {
   font-family:sans-serif;
 }
 
-h1 {
-  color: #ffffff;
+.intro {
+  border: .4rem solid black;
+  align-items: center;
+  justify-content: center;
+    color: #ffc600;
 }
 
 .keys {
