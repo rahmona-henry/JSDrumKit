@@ -10,6 +10,10 @@ body,html {
   font-family:sans-serif;
 }
 
+h1 {
+  color: #ffffff;
+}
+
 .keys {
   display: flex;
   flex: 1;
