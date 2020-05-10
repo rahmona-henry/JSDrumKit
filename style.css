@@ -11,10 +11,11 @@ body,html {
 }
 
 .intro {
-  border: .4rem solid black;
   align-items: center;
   justify-content: center;
-    color: #ffc600;
+  color: #ffffff;
+  background: rgba(0,0,0,0.4);
+  text-shadow: 0 0 .5rem black;
 }
 
 .keys {
